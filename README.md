@@ -12,6 +12,7 @@ Feel free to contact me in :
 Facebook : https://facebook.com/nopallls
 Twitter : https://twitter.com/0xjessy
 Instagram : https://instagram.com/nopallls_
+Twitch : https://twitch.tv/nopalls
 
 <!--
 **nopalls/nopalls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
