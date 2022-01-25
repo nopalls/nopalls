@@ -1,7 +1,7 @@
 ### Hi there, I'm Nopal 👋
 
 
-<img src="https://i.ibb.co/FJ9BJDj/IMG-20220125-104241.png"> </img>
+<img src="https://i.ibb.co/xsvcGYM/darling.png"> </img>
 I'm currently learning Golang Languange,learn some code and make a hot coffe.
 
 
