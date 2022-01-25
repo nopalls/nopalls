@@ -1,8 +1,6 @@
 ### Hi there, I'm Nopal 👋
 
-<p align="center">I'm currently learning Golang Languange,learn some code and make a hot coffe.
-  All i need is code and you <3
-</p>
+I'm currently learning Golang Languange,learn some code and make a hot coffe.
 
 
 Feel free to contact me at :
